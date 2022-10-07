@@ -1,4 +1,4 @@
-# improved-eureka
+# Conway's GOL
 My first repo
 
 Created a cellular automata simulation for grade 11 ICS4UA Culminating.
